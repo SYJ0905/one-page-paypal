@@ -1,4 +1,4 @@
 # one-page-paypal
 
 ## Demo 
-https://yangjiesu.github.io/one-page-paypal/
+https://syj0905.github.io/one-page-paypal/
